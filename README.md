@@ -1,2 +1,2 @@
-# Consort
+# Codsoft
 Web - Development Intern Tasks 
